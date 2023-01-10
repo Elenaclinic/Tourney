@@ -17,8 +17,8 @@ public class Player {
         return name;
     }
 
-
     public int getStrength() {
+
         return strength;
     }
 
